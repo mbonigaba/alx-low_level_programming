@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * *main - Entry point
- * *My hello, printf task
- * *Return: return 1 after program execution
- * */
+ * main - entry point
+ *
+ * Return: 0 after printing the function
+ */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
